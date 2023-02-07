@@ -1,0 +1,3 @@
+@media screen and (min-width:600px) and ( max-width:800px) { .menu {background-color: blue;}   
+}
+@media screen and (min-width:801px) and (max-width:1000px) {.menu{background-color: red;}}
