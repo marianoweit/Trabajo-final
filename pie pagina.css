@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Playfair+Display:wght@500&family=Roboto:ital,wght@1,300&display=swap');
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 20px;
+    background-color: #0a141d
+}
+
+.pie-pagina{
+    width: 100%;
+    background-color: #0a1a2a;
+}
+.pie-pagina .grupo-2{
+    background-color: #0a141d;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
